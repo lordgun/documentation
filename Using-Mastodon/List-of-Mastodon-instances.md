@@ -9,6 +9,7 @@ List of Mastodon instances
 | [securitymastod.one](https://securitymastod.one/) |Information security enthusiasts and pros|Yes|Yes|
 | [mastodon.nuzgo.net](https://mastodon.nuzgo.net/) |Mastodon instance hosted in Paris |Yes|Yes|
 | [mastodon.cx](https://mastodon.cx/) |Alternative Mastodon instance hosted in France|Yes|Yes|
+| [mastodon.gg](https://mastodon.gg)|Fast and open Mastodon, hosting by AWS|Yes|Yes|
 | [mastodon.network](https://mastodon.network) |N/A|Yes|Yes|
 | [awoo.space](https://awoo.space) |Intentionally moderated, only federates with mastodon.social|Yes|No|
 | [animalliberation.social](https://animalliberation.social) |Animal Rights|Yes|No|
@@ -76,6 +77,7 @@ List of Mastodon instances
 | [mastodon.fun](https://mastodon.fun/)|Mastodon for everyone ! |Yes|Yes|
 | [oulipo.social](https://oulipo.social/)|An Oulipo Mastodon in which that fifth symbol in Latin script is taboo|Yes|Yes|
 | [indigo.zone](https://indigo.zone)|Open Registrations, General Purpose|Yes|No|
+| [mastodon.cloud](https://mastodon.cloud)|An open Mastodon instance with people from all around the world|Yes|Yes|
 | [mastodon.cloud](https://mastodon.cloud)|An open Mastodon instance with people from all around the world|Yes|Yes|
 | [mst3k.interlinked.me](https://mst3k.interlinked.me)|Open registrations, general purpose|Yes|Yes|
 | [reveal.today](https://reveal.today/)|Open Registrations, General Purpose, About everyday events|Yes|Yes|
